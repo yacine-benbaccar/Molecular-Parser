@@ -14,7 +14,15 @@ The patterns to detect:(*The examples cited below are not necessarily valid mole
 - Grouped Components:```\((?:[^()]*(?:\(.*\))?[^()]*)+\)\d+``` 
   - Examples: Al2(Cs3O)2)4, (C(O)Al)2
   
-Top-Down Decomposition:
+### Top-Down Decomposition:
+
+![exp](assets/img1.png)
+
+*Decomposition example of K4(ON(SO3)2)2*
+
+![exp](assets/img2.png)*Decomposition example of (AlCu2(CHO)3)2*
+
+![exp](assets/img3.png)*Example Counting of atoms in a formula*
 
 
 
