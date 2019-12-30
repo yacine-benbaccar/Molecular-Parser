@@ -20,9 +20,13 @@ The patterns to detect:(*The examples cited below are not necessarily valid mole
 
 *Decomposition example of K4(ON(SO3)2)2*
 
-![exp](assets/img2.PNG)*Decomposition example of (AlCu2(CHO)3)2*
+![exp](assets/img2.PNG)
 
-![exp](assets/img3.png)*Example Counting of atoms in a formula*
+*Decomposition example of (AlCu2(CHO)3)2*
+
+![exp](assets/img3.png)
+
+*Example Counting of atoms in a formula*
 
 
 
